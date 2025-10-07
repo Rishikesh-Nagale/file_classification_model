@@ -1,0 +1,7 @@
+boto3
+numpy
+PyMuPDF
+pandas
+pytesseract
+scikit-learn
+sentence-transformers
