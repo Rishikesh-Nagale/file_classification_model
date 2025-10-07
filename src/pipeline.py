@@ -10,4 +10,4 @@ def run_pipeline():
     print("Step 4: Predict PDF type (A/B)")
     print("Step 5: Save or log results")
 
-    print("\n🧩 Placeholder pipeline executed successfully.")
+    print("\n Pipeline executed successfully.")
